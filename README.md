@@ -1,6 +1,15 @@
 # Hrm-blog
 My professional HRM blog for Assignment 
 
+
+  <div class="intro">
+    <h2>Student Introduction</h2>
+    <p><strong>Name:</strong> Owais</p>
+    <p><strong>Roll No:</strong> 231426</p>
+    <p><strong>Class:</strong> BS Software Engineering - B</p>
+    <p><strong>University:</strong> Islamia College University, Peshawar</p>
+  </div>
+
   <h1>The Role of AI in Shaping the Future of Work</h1>
 
   <h2>Introduction to AI in Human Resource Management</h2>
